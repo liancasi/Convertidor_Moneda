@@ -36,3 +36,9 @@ java Principal
 - `Principal.java`: Contiene el método main y maneja la interacción con el usuario.
 - `Moneda.java`: Representa una conversión de moneda con sus detalles.
 - `ConsultaMoneda.java`: Maneja la lógica de conversión y la comunicación con la API de tasas de cambio.
+
+## API Utilizada
+Este proyecto utiliza la API de ExchangeRate-API para obtener las tasas de cambio actualizadas. Asegúrese de tener una conexión a Internet activa para que el programa funcione correctamente.
+
+## Contacto
+Si tiene alguna pregunta o sugerencia, no dude en contactarme a través de [lacaro@ut.edu.co].
